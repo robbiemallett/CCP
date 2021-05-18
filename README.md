@@ -14,9 +14,9 @@ All contributed code *should* also use [numpy docstrings](https://sphinxcontrib-
 
 All contributed code *should* include tests. This is because CCP makes use of continuous integration using Travis. This means that with each push to the github repo, tests are run automatically to check that you haven't broken the code.
 
-Finally, contributed code *must* be functional, not object orientated. If you don't know what a class is, then ignore this. This choice has been made for two reasons:
-1) CCP is a processor, and not a piece of operational software. 
-2) Object orientated programming is easier for the code author, but much harder for the code reader!
+Finally, contributed code *must* be functional, not object orientated. If you don't know what a class is, then ignore this. This choice has been made for several reasons:
+1) CCP is a processor, and not a piece of open-ended software. 
+2) Object orientated programming is easier for the code author, [but is pretty rubish at a lot of stuff](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/)!
 3) Widening accessibility. CryoSat scientists come from a variety of backgrounds and do not always know object orientated programming.
 
 A final reason is that many people know OOP but far fewer know how or when to do it well!
