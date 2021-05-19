@@ -23,5 +23,5 @@ A final reason is that many people know OOP but far fewer know how or when to do
 
 ### Philosophy
 
-There are several processors in existence, including those described by Ricker et al. (2014), Kurtz et al. (2014), Kwok et al. (2015), Tilling et al. (2018), Lawrence et al. (2018), Landy et al. (2020). It is not the intention of this project to further develop the physics or theoretical approach, but instead to implement components of the above agorithms in a flexible and understandable way. This modular approach is shared with the Snow Microwave Radiative Transfer model, and the community-focus is inspired by the Community Earth System Model.
+There are several processors in existence, including those described by Ricker et al. (2014), Kurtz et al. (2014), Kwok et al. (2015), Tilling et al. (2018), Lawrence et al. (2018), Landy et al. (2020). It is not the intention of this project to further develop the physics or theoretical approach, but instead to implement components of the above agorithms in a flexible, modular and understandable way. This modular approach is inspired by the Snow Microwave Radiative Transfer model, and the community-focus is inspired by the Community Earth System Model.
 
